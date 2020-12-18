@@ -1,0 +1,2 @@
+M:\C Programlama\C - Basic\Define-Undef and Typedef\Debug\Define-Undef and Typedef.exe
+M:\C Programlama\C - Basic\Define-Undef and Typedef\Debug\Define-Undef and Typedef.pdb

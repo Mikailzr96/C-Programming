@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (Binary Operators 2 Bitsiwe Or - And Operators.vcxproj, Binary Operators 2 Bitsiwe Or Operators.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Binary Operators 2 Bitsiwe Operators NOT,OR,AND,XOR.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Binary Operators 2 Bitsiwe Or Operators\Binary Operators 2 Bitsiwe Operators NOT,OR,AND,XOR.c(14,7): warning C4013: 'DB' tanımsız; int döndüren extern olduğu varsayılıyor
+  Binary Operators 2 Bitsiwe Or Operators.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Binary Operators 2 Bitsiwe Or Operators\Debug\Binary Operators 2 Bitsiwe Operators NOT,OR,AND,XOR.exe
