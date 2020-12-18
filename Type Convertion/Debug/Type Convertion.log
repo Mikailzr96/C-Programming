@@ -1,0 +1,3 @@
+﻿  Type Convertion.c
+M:\C Programlama\C - Basic\Type Convertion\Type Convertion.c(32,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Type Convertion.vcxproj -> M:\C Programlama\C - Basic\Type Convertion\Debug\Type Convertion.exe

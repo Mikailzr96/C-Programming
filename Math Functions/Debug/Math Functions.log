@@ -1,0 +1,11 @@
+﻿  Math Functions.c
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(15,22): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(17,23): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(19,23): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(21,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(23,19): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(25,19): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(27,31): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(29,31): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+M:\C Programlama\C - Basic\Math Functions\Math Functions.c(8,1): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Math Functions.vcxproj -> M:\C Programlama\C - Basic\Math Functions\Debug\Math Functions.exe
