@@ -1,0 +1,5 @@
+﻿  MyLibrary.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointers Example 2\MyLibrary.c(13,1): warning C4090: 'başlatılıyor': farklı 'const' niteleyicileri
+  Pointers Example 2.c
+  Kod Üretiliyor...
+  Pointers Example 2.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointers Example 2\Debug\Pointers Example 2.exe
