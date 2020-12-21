@@ -1,0 +1,4 @@
+﻿  Pointers Example 3.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointers Example 3\Pointers Example 3.c(15,1): warning C4047: 'başlatılıyor': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointers Example 3\Pointers Example 3.c(41,15): warning C4047: 'return': 'int', yöneltme düzeyi sayısı bakımından 'int *' ile aynı değil
+  Pointers Example 3.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointers Example 3\Debug\Pointers Example 3.exe
