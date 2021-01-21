@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (Libraries - String.h 3 strstr.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Libraries - String.h 3 strstr-strcmp-stricmp.c
+  Libraries - String.h 3 strstr.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Libraries - String.h 3 strstr\Debug\Libraries - String.h 3 strstr-strcmp-stricmp.exe

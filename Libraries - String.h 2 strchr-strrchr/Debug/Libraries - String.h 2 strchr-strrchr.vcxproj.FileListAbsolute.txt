@@ -1,0 +1,2 @@
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Libraries - String.h 2 strchr-strrchr\Debug\Libraries - String.h 2 strchr-strrchr.exe
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Libraries - String.h 2 strchr-strrchr\Debug\Libraries - String.h 2 strchr-strrchr.pdb
