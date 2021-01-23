@@ -1,0 +1,4 @@
+﻿  Abort Function.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Abort Function\Abort Function.c(25,11): warning C4113: 'void (__cdecl *)()' parametre listeleri bakımından 'void (__cdecl *)(void)' öğesinden farklı
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Abort Function\Abort Function.c(26,11): warning C4113: 'void (__cdecl *)()' parametre listeleri bakımından 'void (__cdecl *)(void)' öğesinden farklı
+  Abort Function.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Abort Function\Debug\Abort Function.exe
