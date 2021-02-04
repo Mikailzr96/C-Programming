@@ -1,0 +1,4 @@
+﻿  Dynamic Memory Managent 2 Calloc - Free.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Dynamic Memory Managent 2 Calloc - Free\Dynamic Memory Managent 2 Calloc - Free.c(18,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Dynamic Memory Managent 2 Calloc - Free\Dynamic Memory Managent 2 Calloc - Free.c(21,6): warning C4102: 'free': etiket başvurusu kaldırıldı
+  Dynamic Memory Managent 2 Calloc - Free.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Dynamic Memory Managent 2 Calloc - Free\Debug\Dynamic Memory Managent 2 Calloc - Free.exe
