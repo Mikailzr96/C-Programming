@@ -1,0 +1,2 @@
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\The Function of Memcpy\Debug\The Function of Memcpy.exe
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\The Function of Memcpy\Debug\The Function of Memcpy.pdb

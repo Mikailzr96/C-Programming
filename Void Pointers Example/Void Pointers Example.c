@@ -7,6 +7,7 @@
 	2 ---> Char
 */
 void generic_printf_array(const void* ptr, size_t size, int type);
+void generic_printf_array2(const void* ptr, size_t size, size_t nbyte);
 
 int main()
 {
@@ -16,7 +17,10 @@ int main()
 
 	generic_printf_array(double_array, SIZE, 0);	printf("\n");
 	generic_printf_array(int_array, SIZE, 1);		printf("\n");
-	generic_printf_array(char_array, SIZE, 2);		printf("\n");
+	generic_printf_array(char_array, SIZE, 2);		printf("\n\n");
+
+	generic_printf_array2(int_array, SIZE, sizeof(int));	printf("\n");
+
 }
 
 void generic_printf_array(const void* ptr, size_t size, int type) {
@@ -33,5 +37,12 @@ void generic_printf_array(const void* ptr, size_t size, int type) {
 			printf("%c ", *((char*)ptr + i));
 			break;
 		}
+	}
+}
+void generic_printf_array2(const void* ptr, size_t size, size_t nbyte) {
+	char* p = (char*)ptr;
+	for (size_t i = 0; i < size; i++) {
+		printf("%d ", *p);
+		p += nbyte;
 	}
 }
