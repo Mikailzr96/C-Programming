@@ -1,2 +1,4 @@
 C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\qsort Function\Debug\qsort Function.exe
 C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\qsort Function\Debug\qsort Function.pdb
+M:\C Programlama\C-Programming\qsort Function\Debug\qsort Function.exe
+M:\C Programlama\C-Programming\qsort Function\Debug\qsort Function.pdb

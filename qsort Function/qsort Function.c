@@ -21,12 +21,23 @@
 int cmp(const void* vp1, const void* vp2) {
 	return(*(const int*)vp1 - *(const int*)vp2);
 }
+int cmp2(const void* vp1, const void* vp2) {
+	return(*(const int*)vp2 - *(const int*)vp1);
+}
+
 
 int main()
 {
 	int a[SIZE] = { 1,9,5,8,4,2,7,6,3 };
 
+	printf("Küçükten -> Büyüge \n");
 	qsort(a, SIZE, sizeof(int),&cmp);
+
+	for (int i = 0; i < SIZE; i++)
+		printf("%d ", a[i]);
+
+	printf("\n\nBüyükten -> Kücüge \n");
+	qsort(a, SIZE, sizeof(int), &cmp2);
 
 	for (int i = 0; i < SIZE; i++)
 		printf("%d ", a[i]);
