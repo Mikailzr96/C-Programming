@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (Pointer Examples 2.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Pointer Examples 2 Strcat.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointer Examples 2\Pointer Examples 2 Strcat.c(27,13): warning C4047: 'return': 'char', yöneltme düzeyi sayısı bakımından 'char *' ile aynı değil
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointer Examples 2\Pointer Examples 2 Strcat.c(37,10): warning C4047: 'return': 'char', yöneltme düzeyi sayısı bakımından 'char *' ile aynı değil
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointer Examples 2\Pointer Examples 2 Strcat.c(42,13): warning C4047: 'return': 'char', yöneltme düzeyi sayısı bakımından 'char *' ile aynı değil
+  Pointer Examples 2.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointer Examples 2\Debug\Pointer Examples 2 Strcat.exe

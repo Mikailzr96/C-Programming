@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (Pointer Exapmles 3.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Pointer Exapmles 3 Strcpy.c
+  Pointer Exapmles 3.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\Pointer Exapmles 3\Debug\Pointer Exapmles 3 Strcpy.exe
