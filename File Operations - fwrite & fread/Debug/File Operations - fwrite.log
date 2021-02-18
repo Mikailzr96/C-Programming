@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (File Operations - fwrite.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  File Operations - fwrite fread.c
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Operations - fwrite\File Operations - fwrite fread.c(28,22): warning C4013: 'strlen' tanımsız; int döndüren extern olduğu varsayılıyor
+  File Operations - fwrite.vcxproj -> C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Operations - fwrite\Debug\File Operations - fwrite fread.exe

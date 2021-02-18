@@ -1,0 +1,2 @@
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Operations - fwrite\Debug\File Operations - fwrite fread.exe
+C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Operations - fwrite\Debug\File Operations - fwrite fread.pdb
