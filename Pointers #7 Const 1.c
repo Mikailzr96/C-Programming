@@ -5,25 +5,38 @@
 	int *const p = &x;										p is a constat to pointter int 
 	int const *p = &x; == 	const int *p = &x;				p is a pointer to constant int	
 	
-	const neyin önüne gelmiþse const o olur. --> *const p durumunda const p'nin önüne geldiðinden const = p'dir.Ayný þekilde const *p durumunda da const = *p'dir.
-		
-	int const const *p = &x; == const int const *2 = &x 
+	const ifadesinden sonra ' = ' varmýþ gibi düþünürsek const ifadesinin eþtini daha kolay bulabiliriz. 
+	Örneðin --> 
+			int *const p = &x; ifadesinde 'int *const = p' --> const = p;
+			int const *p = &x; ifadesinde 'int const = *p' --> const = *p;	
+			
+	int const const *p = &x; == const int const *p = &x 
 */
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
-	
-	
-	int x = 20, y = 40;
-	
-	
-	int *const p = &x;		// const = p'dir.      p deðiþemez --> p ve x deðiþebilir.		  p deðiþkeni hep &x'i göstersin, x'in artmasý p deðiþkenini deðiþtiremez -->
-// 																				-->	çünkü p yine x'i gösterecektir. X arttý diye farklý bir deðiþken göstermeyecektir.
+	int x = 10, y = 12, z = 14;
 
-	int const *p1 = &y;		// const = *p1'dir	 *p1 deðiþemez --> p1 ve y deðiþebilir.  	*p1 deðiþkeni hep &y'i göstersin.O yüzden (*p1) deðiþken deðiþtirelemez.
+	int* const p1 = &x;			// const = p1 --> p1 deðiþemez, *p1 ve x deðiþebilir. 
+	x++;
+	(*p1)++;
+	printf("X --> \n");
+	printf("Sayýnýn Deðeri %d\t\t Adresi = %p \n", *p1, p1);
+	printf("Sayýnýn Deðeri %d\t\t Adresi = %p \n\n", x, &x);
+
+
+	int const* p2 = &y;			// const = *p2	--> *p2 deðiþemez. p2 ve y deðiþebilir.
+	p2++;
+	++y;
+	printf("Y --> \n");
+	printf("Sayýnýn Deðeri %d\t Adresi = %p \n", *p2, p2);		// Adres deðiþtiðinden *p2 çöp deðerler gösterir.
+	printf("Sayýnýn Deðeri %d\t\t Adresi = %p \n\n", y, &y);
+
+
+	const int* const p3 = &z;	// const = p3 && const = *p3 --> Sadece z deðiþebilir.
+	z++;
+	printf("Z --> \n");
+	printf("Sayýnýn Deðeri %d\t\t Adresi = %p \n", *p3, p3);		// Adres deðiþtiðinden *p2 çöp deðerler gösterir.
+	printf("Sayýnýn Deðeri %d\t\t Adresi = %p \n\n", z, &z);
 	
-	
-	const int *const p2 = &x;		//	const = p2 && const = *p2'dir. --> Sadece x deðiþebilir.
-	
-		
 }

@@ -1,2 +1,4 @@
 C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Streams\Debug\File Streams.exe
 C:\Users\IIIIIIIIIIIIIIIIIII\source\repos\File Streams\Debug\File Streams.pdb
+M:\C Programlama\C-Programming\File Streams\Debug\File Streams.exe
+M:\C Programlama\C-Programming\File Streams\Debug\File Streams.pdb
